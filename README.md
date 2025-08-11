@@ -111,8 +111,3 @@ Provided actionable insights for operational efficiency and sales growth.
 <img width="691" height="799" alt="Amazon Sales Report" src="https://github.com/user-attachments/assets/247e0a04-9fc5-48b1-888e-6c413aeee23b" />
 
 
-
-
-Identified key product, location, and fulfillment performance drivers.
-
-Provided actionable insights for operational efficiency and sales growth.
